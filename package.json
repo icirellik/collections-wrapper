@@ -18,9 +18,9 @@
   "author": "Cameron Rollheiser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icirellik/npm-publish-check/issues"
+    "url": "https://github.com/icirellik/collections-wrapper/issues"
   },
-  "homepage": "https://github.com/icirellik/npm-publish-check#readme",
+  "homepage": "https://github.com/icirellik/collections-wrapper#readme",
   "dependencies": {
     "collections": "~1.1.0"
   }
