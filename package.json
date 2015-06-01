@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-check",
+  "name": "collections-wrapper",
   "version": "0.0.1",
   "description": "A package to validate that npm publish does what we think it does.",
   "main": "index.js",
@@ -9,12 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icirellik/npm-publish-check.git"
+    "url": "git+https://github.com/icirellik/collections-wrapper.git"
   },
   "keywords": [
-    "npm",
-    "publish",
-    "test"
+    "collections",
+    "wrapper"
   ],
   "author": "Cameron Rollheiser",
   "license": "MIT",
