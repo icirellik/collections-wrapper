@@ -1,0 +1,28 @@
+{
+  "name": "npm-publish-check",
+  "version": "0.0.1",
+  "description": "A package to validate that npm publish does what we think it does.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icirellik/npm-publish-check.git"
+  },
+  "keywords": [
+    "npm",
+    "publish",
+    "test"
+  ],
+  "author": "Cameron Rollheiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icirellik/npm-publish-check/issues"
+  },
+  "homepage": "https://github.com/icirellik/npm-publish-check#readme",
+  "dependencies": {
+    "collections": "~1.1.0"
+  }
+}
