@@ -1,6 +1,6 @@
 {
   "name": "collections-wrapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A package to validate that npm publish does what we think it does.",
   "main": "index.js",
   "scripts": {
